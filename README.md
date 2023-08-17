@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arundhatij12
 - 👀 I’m interested in Coding and solving problems .
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning new technical skills.
 - 💞️ I’m looking to collaborate on hackathons, coding with a buddy.
 - 📫 How to reach me ... on Twitter and LinkedIn.
 
